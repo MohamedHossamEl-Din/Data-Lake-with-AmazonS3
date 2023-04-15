@@ -86,6 +86,8 @@ The data tables were designed as a star schema to optimize queries on song play 
 **time** - timestamps of records in songplays broken down into specific units
         start_time, hour, day, week, month, year, weekday
 
+![schema]([https://www.udacity.com/images/svgs/udacity-tt-logo.svg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38715/1584109948/Song_ERD.png))
+
 
 ## Conclusion
 Now, Sparkify startup has their music streaming app data in *S3 bucket data lake* ready on demand whenever the analytics team wants to run their analysis.
